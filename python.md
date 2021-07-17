@@ -1,2 +1,2 @@
-#initialize 2d-array
+# initialize 2d-array
 op = [[0] * col for _ in range(row)]
