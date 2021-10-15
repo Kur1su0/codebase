@@ -9,4 +9,5 @@ collections of (pseudo)code
 
 
 - VO prepare
-  - [decode string](https://github.com/Kur1su0/codebase/vo/decode_string.py)
+  - [decode string](https://github.com/Kur1su0/codebase/blob/main/vo/decode_string.py)
+
