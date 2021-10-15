@@ -6,3 +6,7 @@ collections of (pseudo)code
 - [Python](https://github.com/Kur1su0/codebase/blob/main/python_basics.md)
 
 - [Leetcode Tracking](https://github.com/Kur1su0/codebase/blob/main/leetcode.md)
+
+
+- VO prepare
+  - [decode string](https://github.com/Kur1su0/codebase/vo/decode_string.py)
